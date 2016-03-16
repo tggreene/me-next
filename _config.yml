@@ -9,7 +9,7 @@ title:               Lanyon
 tagline:             'A Jekyll theme'
 description:         'A reserved Jekyll theme that places the utmost gravity on content with a hidden drawer. Made by @mdo.'
 url:                 http://lanyon.getpoole.com
-baseurl:             ''
+baseurl:             'http://tggreene.github.io/me-next'
 paginate:            5
 
 # About/contact
