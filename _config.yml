@@ -1,0 +1,33 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: false
+
+# Setup
+title:               Lanyon
+tagline:             'A Jekyll theme'
+description:         'A reserved Jekyll theme that places the utmost gravity on content with a hidden drawer. Made by @mdo.'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Assets
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# Gems
+gems:
+  [jekyll-paginate]
